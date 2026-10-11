@@ -1,0 +1,106 @@
+{
+  "trail_walk": {
+    "title": "Forest Recovery Trail Walk",
+    "activity_type": "trail_walk",
+    "target_duration_minutes": 30,
+    "terrain_suggestion": "Packed dirt trail or gentle woodland path",
+    "blocks": [
+      {
+        "phase": "warmup",
+        "duration_minutes": 5,
+        "instruction": "Easy conversational walking pace, gentle neck and shoulder rolls",
+        "target_rpe_1_to_10": 2
+      },
+      {
+        "phase": "main_set",
+        "duration_minutes": 20,
+        "instruction": "Brisk uphill cadence, engaging core and arm drive on inclines",
+        "target_rpe_1_to_10": 5
+      },
+      {
+        "phase": "cooldown",
+        "duration_minutes": 5,
+        "instruction": "Slow stroll and deep nasal breathing with calf stretches",
+        "target_rpe_1_to_10": 2
+      }
+    ]
+  },
+  "fartlek_run": {
+    "title": "Open Trail Landmark Fartlek",
+    "activity_type": "fartlek_run",
+    "target_duration_minutes": 30,
+    "terrain_suggestion": "Undulating park loop or packed dirt trail",
+    "blocks": [
+      {
+        "phase": "warmup",
+        "duration_minutes": 5,
+        "instruction": "Gentle jog with high knees and butt kicks",
+        "target_rpe_1_to_10": 3
+      },
+      {
+        "phase": "main_set",
+        "duration_minutes": 20,
+        "instruction": "Surge hard between trail markers (benches/trees), jog easy to recover",
+        "target_rpe_1_to_10": 7
+      },
+      {
+        "phase": "cooldown",
+        "duration_minutes": 5,
+        "instruction": "Slow jog into walk, followed by hamstring and hip flexor stretches",
+        "target_rpe_1_to_10": 2
+      }
+    ]
+  },
+  "rucking": {
+    "title": "Weighted Trail Ruck",
+    "activity_type": "rucking",
+    "target_duration_minutes": 45,
+    "terrain_suggestion": "Variable gravel and packed dirt with rolling grades",
+    "blocks": [
+      {
+        "phase": "warmup",
+        "duration_minutes": 5,
+        "instruction": "Steady baseline stride, adjusting rucksack fit and posture",
+        "target_rpe_1_to_10": 3
+      },
+      {
+        "phase": "main_set",
+        "duration_minutes": 35,
+        "instruction": "Consistent power pace, maintaining upright chest and upright head",
+        "target_rpe_1_to_10": 6
+      },
+      {
+        "phase": "cooldown",
+        "duration_minutes": 5,
+        "instruction": "Unload weight or walk smoothly, perform shoulder and lower back decompression",
+        "target_rpe_1_to_10": 2
+      }
+    ]
+  },
+  "interval_sprints": {
+    "title": "Hill & Flat Trail Repeats",
+    "activity_type": "interval_sprints",
+    "target_duration_minutes": 25,
+    "terrain_suggestion": "Gradual trail incline or flat grass field",
+    "blocks": [
+      {
+        "phase": "warmup",
+        "duration_minutes": 6,
+        "instruction": "Progressive light jog and dynamic leg swings",
+        "target_rpe_1_to_10": 3
+      },
+      {
+        "phase": "main_set",
+        "duration_minutes": 15,
+        "instruction": "6 x 30-second near-max surges with 90 seconds recovery walk",
+        "target_rpe_1_to_10": 9
+      },
+      {
+        "phase": "cooldown",
+        "duration_minutes": 4,
+        "instruction": "Gentle cool-down walk and static stretching",
+        "target_rpe_1_to_10": 2
+      }
+    ]
+  }
+}
